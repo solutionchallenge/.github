@@ -23,17 +23,18 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## 🔗 Links
+
+- 🌐 [Website](https://ondaum.revimal.me/)
+- 📱 [Android (.apk)](https://drive.google.com/file/d/1hfUUa8xL_KVhYdOc8I2o2o2bJ3Hq6W9J/view?usp=drive_link)
+- 🎥 [Demo Video](https://youtu.be/YaSAixHbTTU)
 
 ## 🌍 OVERVIEW
 We want to help people around the world live healthier lives by being with Um, an AI professional psychological counseling companion, anytime and anywhere.
 
 In the past year, 73.6% of Korean young adults experienced mental health challenges. In addition, global statistics reveal that 66% of individuals aged 18-24 report experiencing moderate to severe.
 
-Ondaum provides accessible, mental health support anytime, anywhere, reducing financial and stigma barriers. The chatbot analyzes conversations in real time to detect risk signals and offer timely support, while its friendly interface keeps users engaged and lowers resistance.
-
-
-
-Let's start https://ondaum.revimal.me/
+Ondaum provides accessible, mental health support anytime, anywhere, reducing financial and stigma barriers. The chatbot analyzes conversations in real time to detect risk signals and offer timely support, while its friendly interface keeps users engaged and lowers resistance. 
 
 #### 📱 FEATURES
 - AI Counseling With Um
