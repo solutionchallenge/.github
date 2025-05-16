@@ -59,5 +59,12 @@ Ondaum provides accessible, mental health support anytime, anywhere, reducing fi
 ## 🛠️ TECHNOLOGY
 ![image](https://github.com/user-attachments/assets/f9654100-216b-4d6a-a11e-c020bee1d2ad)
 
+## 👤 CONTRIBUTORS
+
+
+|**[🧸 Gyeongmin Kim 🧸]()** |**[🧸 Joohye Yoon 🧸](https://github.com/yoonjoohye)**  |**[🧸 Jiwon Jeong 🧸](https://github.com/zziglet)**   |               **[🧸 Hyeonho Seo 🧸](https://github.com/Revimal)**               |
+|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| ![Frame 242](https://github.com/user-attachments/assets/10fceef4-f0ea-4f28-baad-dc93746c9894)| ![Frame 244](https://github.com/user-attachments/assets/d048233d-9277-4460-b111-d261657a5ac0)|             ![Frame 244-1](https://github.com/user-attachments/assets/167a4c83-d870-479f-8343-c0bfb8a899e4)|         ![Frame 242-1](https://github.com/user-attachments/assets/0ad5b555-a12c-42f5-9a54-12e53a0653cc) |
+| UXUI Designer | Fronted Developer |  Fronted Developer | Backend, AI Developer |
 
 📅 This README was written on **May 15, 2025**.
