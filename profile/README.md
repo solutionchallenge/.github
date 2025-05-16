@@ -50,7 +50,13 @@ Let's start https://ondaum.revimal.me/
 - Available for consultation anytime, anywhere
 - Personalized consultation possible
 - Reduced barriers to seeking counseling
-- Access to a pre-trained professional psychological counseling AI 
+- Access to a pre-trained professional psychological counseling AI
+
+## 🏛️ INFRASTRUCTURE
+![image](https://github.com/user-attachments/assets/ef8b6129-4314-41a2-ac0a-a9474319e216)
+
+## 🛠️ TECHNOLOGY
+![image](https://github.com/user-attachments/assets/f9654100-216b-4d6a-a11e-c020bee1d2ad)
 
 
 📅 This README was written on **May 15, 2025**.
