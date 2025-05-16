@@ -43,8 +43,8 @@ Let's start https://ondaum.revimal.me/
   - Deliver tailored insights and links to support upon risk detection
 - AI Analysis of Conversation Content
   - Summary and organization of the conversation
-  - extracting key emotions and keywords
-  - visualize the recommends using charts
+  - Extracting key emotions and keywords
+  - Visualize the recommends using charts
 
 #### ✨ VALUES
 - Available for consultation anytime, anywhere
